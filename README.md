@@ -1,36 +1,36 @@
-# 🧠 Jogo da Memória (React)
+# 🧠 Memory Game (React)
 
-Este é um projeto de **jogo da memória** desenvolvido com **React**, com base em um curso online, com o objetivo de praticar conceitos de componentes, estados e interatividade no desenvolvimento web moderno.
+This is a **memory game project** built with **React**, based on an online course, aimed at practicing concepts such as components, states, and interactivity in modern web development.
 
-> Projeto educacional desenvolvido durante um curso para reforçar o uso do React na prática.
+> Educational project developed during a course to reinforce practical use of React.
 
-## 🎮 Como funciona
+## 🎮 How It Works
 
-- O jogador deve encontrar os pares de cartas iguais.
-- Ao clicar, as cartas são viradas.
-- Pares corretos permanecem revelados.
-- O jogo termina quando todos os pares são encontrados ou as tentativas acabam.
+- The player must match pairs of identical cards.
+- Cards flip when clicked.
+- Correct pairs remain visible.
+- The game ends when all pairs are matched or attempts run out.
 
-## 🛠️ Tecnologias utilizadas
+## 🛠️ Technologies Used
 
 - React.js  
 - JavaScript (ES6+)  
 - HTML5 & CSS3  
-- Vite 
+- Vite
 
-## 💡 Conceitos praticados
+## 💡 Concepts Practiced
 
-- Componentização com React  
+- React component structure  
 - Hooks: `useState`, `useEffect`  
-- Manipulação de arrays e lógica de jogo  
-- Estilização com CSS  
-- Controle de fluxo e estados do jogo
+- Array manipulation and game logic  
+- CSS styling  
+- Game state and flow control
 
-## 📚 Base de aprendizado
+## 📚 Learning Source
 
-Projeto baseado em um curso online de React, com o objetivo de colocar em prática os fundamentos aprendidos, especialmente voltados para aplicações interativas com lógica de jogo.
+Based on an online React course focused on practicing core concepts through interactive applications.
 
-## 👩‍💻 Autor
+## 👩‍💻 Author
 
 Laila Maciel  
 [GitHub: @lailamaciel](https://github.com/lailamaciel)
